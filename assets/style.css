@@ -1,0 +1,30 @@
+#home {
+  background-image: url("https://timedotcom.files.wordpress.com/2014/05/vladstudio.jpg");
+  background-size: cover;
+ 	background-repeat:no-repeat;
+ 	background-position: center;
+ 	background-attachment: fixed;
+  height: 100vh;
+
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  font-family: CaviarDreams;
+  font-size: 350%;
+  padding-top: 10%;
+
+}
+
+@font-face {
+      font-family: 'CaviarDreams';
+      src: url(../assets/CaviarDreams.ttf);
+}
+
+h4 {
+
+  text-align: center;
+  color: white;
+  font-family: CaviarDreams;
+}

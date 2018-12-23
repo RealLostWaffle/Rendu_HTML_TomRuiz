@@ -1,0 +1,120 @@
+#tp2{
+
+
+background-color: rgb(149, 30, 30);
+background-size: cover;
+background-repeat:no-repeat;
+background-position: center;
+background-attachment: fixed;
+height: 330vh;
+}
+
+#content{
+  background-color: white;
+  padding-top: 10vh;
+  margin-left: 15vh;
+  margin-right: 15vh;
+  padding-left: 28vh;
+  height : 325vh;
+}
+
+@font-face {
+      font-family: 'CaviarDreams';
+      src: url(../assets/CaviarDreams.ttf);
+}
+
+
+h1{
+font-family: CaviarDreams;
+  color: white;
+}
+
+#nav a{
+  font-family: CaviarDreams;
+}
+
+#nav p{
+  font-family: CaviarDreams;
+    color: black;
+}
+
+#nav2 a{
+  color : white;
+}
+a {
+  font-family: CaviarDreams;
+  color: black;
+}
+
+h6{
+  margin-top: 5vh;
+font-family: CaviarDreams;
+  color: white;
+  background-color: red;
+  text-align: center;
+  font-size: 25px;
+}
+
+h7{
+font-family: CaviarDreams;
+  color: black;
+  outline-style: inset;
+  outline-color: red;
+  text-align: center;
+  font-size: 25px;
+}
+
+#carouselExampleIndicators p1{
+  color: black;
+  text-align: center;
+  text-decoration: line-through;
+  font-size: 25px;
+  font-family: CaviarDreams;
+}
+#carouselExampleIndicators p2{
+  width: 11em;
+  color: red;
+  text-align: center;
+  font-size: 25px;
+  font-family: CaviarDreams;
+}
+#carouselExampleIndicators p{
+
+  color: black;
+  text-align: center;
+  font-family: CaviarDreams;
+  font-size: 25px;
+}
+
+#carouselExampleIndicators p3{
+
+  color: black;
+  font-family: CaviarDreams;
+  font-size: 15px;
+}
+
+
+
+#footer p{
+  color: rgb(170, 170, 170);
+}
+
+h8{
+  font-family: CaviarDreams;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+h9{
+  font-family: CaviarDreams;
+    color: black;
+    text-align : center;
+    font-size: 30px;
+}
+h10{
+  font-family: CaviarDreams;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
