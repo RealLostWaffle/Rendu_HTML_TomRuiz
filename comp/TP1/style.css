@@ -1,0 +1,33 @@
+#home {
+
+  background-image: url("assets/image/background1.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  color : white;
+}
+
+#about {
+
+  background-image: url("assets/image/background2.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  color : white;
+}
+
+
+ul a{
+      display: inline-block;
+      text-align: center;
+      padding: 12px;
+
+      text-decoration: none;
+}
+
+h1{
+}
